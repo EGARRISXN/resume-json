@@ -1,9 +1,10 @@
 {
   "resumeData": {
-    "Heading": {
+    "heading": {
       "name": "Ethan Garrison",
-      "title": "Full-Stack Web Developer",
-      "desc": "Seasoned professional with a decade-long background in account management, sales, and leadership. Successfully pivoted to Full-Stack Web Development one year ago, demonstrating a rapid adaptation to new challenges. Blend of managerial experience and recent tech proficiency, offering a unique perspective for strategic problem-solving in web development. Excited to contribute a wealth of diverse skills to a forward-thinking tech team.",
+      "title": "Full-Stack Web Developer"
+    },
+    "contact": {
       "info": [
         {
           "id": "info_01",
@@ -24,9 +25,7 @@
           "id": "info_04",
           "icon": "Website",
           "href": "https://www.egxworld.net"
-        }
-      ],
-      "socialMedia": [
+        },
         {
           "id": "socialMedia_01",
           "icon": "Linkedin",
@@ -43,6 +42,9 @@
           "href": "https://www.egxblog.net"
         }
       ]
+    },
+    "summary": {
+      "desc": "Seasoned professional with a decade-long background in account management, sales, and leadership. Successfully pivoted to Full-Stack Web Development one year ago, demonstrating a rapid adaptation to new challenges. Blend of managerial experience and recent tech proficiency, offering a unique perspective for strategic problem-solving in web development. Excited to contribute a wealth of diverse skills to a forward-thinking tech team."
     },
     "Experience": {
       "title": "Professional Experience",
