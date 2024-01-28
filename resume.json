@@ -27,22 +27,22 @@
         {
           "id": "info_04",
           "icon": "Website",
-          "href": "https://www.egxworld.net"
+          "value": "egxworld.net"
         },
         {
           "id": "info_05",
           "icon": "Blog",
-          "href": "https://www.egxblog.net"
+          "value": "egxblog.net"
         },
         {
           "id": "info_06",
           "icon": "Linkedin",
-          "href": "https://www.linkedin.com/in/ethan-garrison"
+          "value": "linkedin.com/in/ethan-garrison"
         },
         {
-          "id": "",
+          "id": "info_07",
           "icon": "Github",
-          "href": "https://github.com/egarrisxn"
+          "value": "github.com/egarrisxn"
         }
       ]
     },
