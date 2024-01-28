@@ -1,0 +1,374 @@
+{
+  "resumeData": {
+    "Heading": {
+      "name": "Ethan Garrison",
+      "title": "Full-Stack Web Developer",
+      "desc": "Seasoned professional with a decade-long background in account management, sales, and leadership. Successfully pivoted to Full-Stack Web Development one year ago, demonstrating a rapid adaptation to new challenges. Blend of managerial experience and recent tech proficiency, offering a unique perspective for strategic problem-solving in web development. Excited to contribute a wealth of diverse skills to a forward-thinking tech team.",
+      "info": [
+        {
+          "id": "info_01",
+          "icon": "Email",
+          "value": "egarrisxn@gmail.com"
+        },
+        {
+          "id": "info_02",
+          "icon": "Address",
+          "value": "Orlando, FL 32819"
+        },
+        {
+          "id": "info_03",
+          "icon": "Phone",
+          "value": "+1(580)284-4513"
+        },
+        {
+          "id": "info_04",
+          "icon": "Website",
+          "href": "https://www.egxworld.net"
+        }
+      ],
+      "socialMedia": [
+        {
+          "id": "socialMedia_01",
+          "icon": "Linkedin",
+          "href": "https://www.linkedin.com/in/ethan-garrison"
+        },
+        {
+          "id": "socialMedia_02",
+          "icon": "Github",
+          "href": "https://github.com/egarrisxn"
+        },
+        {
+          "id": "socialMedia_03",
+          "icon": "Blog",
+          "href": "https://www.egxblog.net"
+        }
+      ]
+    },
+    "Experience": {
+      "title": "Professional Experience",
+      "companies": [
+        {
+          "id": "ps_01",
+          "companyName": "The Pink Squirrel",
+          "address": "Chicago, IL",
+          "designations": [
+            {
+              "id": "ps_01_01",
+              "title": "Assistant General Manager",
+              "duration": "2022 - 2023",
+              "desc": [
+                {
+                  "id": "ps_01_01_01",
+                  "title": "Created innovative marketing and advertising campaigns to promote restaurant promotional offers and increase sales."
+                },
+                {
+                  "id": "ps_01_01_02",
+                  "title": "Engaged team members and improved performance by delivering daily updates and conducting daily meetings to obtain feedback."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "rt_01",
+          "companyName": "Roughtail Brewing Company",
+          "address": "Oklahoma City, OK",
+          "designations": [
+            {
+              "id": "rt_01_01",
+              "title": "Account Manager",
+              "duration": "2021 - 2022",
+              "desc": [
+                {
+                  "id": "rt_01_01_01",
+                  "title": "Built and strengthened long-lasting client relationships based on accurate price quotes and customer-centric terms."
+                },
+                {
+                  "id": "rt_01_01_02",
+                  "title": "Identified key entry points to enhance market penetration and maximize returns."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "aaw_01",
+          "companyName": "Armadillo Ale Works",
+          "address": "Denton, TX",
+          "designations": [
+            {
+              "id": "aaw_01_01",
+              "title": "Account Manager",
+              "duration": "2020 - 2021",
+              "desc": [
+                {
+                  "id": "aaw_01_01_01",
+                  "title": "Oversaw new business development to generate sales leads, negotiate client pricing and forecast revenue."
+                },
+                {
+                  "id": "aaw_01_01_02",
+                  "title": "Reviewed and mitigated discrepancies to increase sales, reduce costs and streamline processes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ns_01",
+          "companyName": "Northside Drafthouse & Eatery",
+          "address": "Richardson, TX",
+          "designations": [
+            {
+              "id": "ns_01_01",
+              "title": "Assistant General Manager",
+              "duration": "2018 - 2020",
+              "desc": [
+                {
+                  "id": "ns_01_01_01",
+                  "title": "Built and strengthened area partnerships to reap benefits such as new revenue channels and enhanced public awareness."
+                },
+                {
+                  "id": "ns_01_01_02",
+                  "title": "Helped team members maintain business professionalism by coaching on methods for delivering exceptional service."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "fc_01",
+          "companyName": "Fullclip Craft Distributors",
+          "address": "Dallas, TX",
+          "designations": [
+            {
+              "id": "fc_01_01",
+              "title": "Assistant General Manager",
+              "duration": "2015 - 2018",
+              "desc": [
+                {
+                  "id": "fc_01_01_01",
+                  "title": "Facilitated client satisfaction and renewed customer relations to drive growth."
+                },
+                {
+                  "id": "fc_01_01_02",
+                  "title": "Educated clients on new products or services to increase customer engagement with brand."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dbk_01",
+          "companyName": "Dallas Beer Kitchen",
+          "address": "Dallas, TX",
+          "designations": [
+            {
+              "id": "dbk_01_01",
+              "title": "Assistant General Manager",
+              "duration": "2012 - 2015",
+              "desc": [
+                {
+                  "id": "dbk_01_01_01",
+                  "title": "Managed budget implementations, employee reviews, training, schedules, and contract negotiations."
+                },
+                {
+                  "id": "dbk_01_01_02",
+                  "title": "Maximized operational excellence mentoring staff on leadership principles, industry practices, and company procedures."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "projects": {
+      "title": "Projects",
+      "projectsList": [
+        {
+          "name": "EGXWORLD",
+          "href": "https://www.egxworld.net",
+          "desc": "My personal Website site I've created to showcase my projects, skills, experience, and more."
+        },
+        {
+          "name": "EGXBLOG",
+          "href": "https://www.egxblog.net",
+          "desc": "My personal blog I've created to document my journey as a developer. I'll be posting about my projects, my experiences, and my thoughts."
+        },
+        {
+          "name": "SWAY BAE OFFICIAL",
+          "href": "https://www.swaybae.net",
+          "desc": "The Official Sway Bae site showcases this professional streamer's assets, achievements, social media links, and much more. Check out and support Sway Bae!"
+        },
+        {
+          "name": "STREAMVERSE",
+          "href": "https://streamversee.herokuapp.com/",
+          "desc": "The StreamVerse is a movie database that allows users to access, rate, and add movies to different lists, along with socialize with like-minded movie lovers. Welcome to the Streamverse!"
+        },
+        {
+          "name": "EVENT EASE",
+          "href": "https://event-ease.herokuapp.com/",
+          "desc": "Event Ease is an easy to use event planner that allows users to plan and manage events, keeping track of attendees, RSVPs, and event details. Enjoy your event!"
+        },
+        {
+          "name": "PLAYER ONE READS",
+          "href": "https://egarrisxn.github.io/Player-One-Reads/",
+          "desc": "Player One Reads generates book suggestions based upon a user's video game interests. Once you've found your suggested book, you'll have the option to read or purchase it. Happy reading!"
+        }
+      ]
+    },
+    "skills": {
+      "title": "Skills",
+      "skillset": [
+        {
+          "id": "skills_core",
+          "title": "Core Skills",
+          "value": [
+            {
+              "id": "skill_c1",
+              "title": "NextJS"
+            },
+            {
+              "id": "skill_c2",
+              "title": "ReactJS"
+            },
+            {
+              "id": "skill_c3",
+              "title": "MongoDB"
+            },
+            {
+              "id": "skill_c4",
+              "title": "Express"
+            },
+            {
+              "id": "skill_c5",
+              "title": "Node.js"
+            }
+          ]
+        },
+        {
+          "id": "skills_technical",
+          "title": "Technical Skills",
+          "value": [
+            {
+              "id": "skill_tc_01",
+              "title": "Javascript"
+            },
+            {
+              "id": "skill_tc_02",
+              "title": "Typescript"
+            }
+          ]
+        },
+        {
+          "id": "skills_db_02",
+          "title": "Database Skills",
+          "value": [
+            {
+              "id": "dbs_01",
+              "title": "SQL"
+            },
+            {
+              "id": "dbs_02",
+              "title": "NoSQL"
+            },
+            {
+              "id": "dbs_03",
+              "title": "GraphQL"
+            }
+          ]
+        },
+        {
+          "id": "skills_frt_03",
+          "title": "Frontend Skills",
+          "value": [
+            {
+              "id": "frt_00",
+              "title": "HTML"
+            },
+            {
+              "id": "frt_01",
+              "title": "CSS"
+            },
+            {
+              "id": "frt_02",
+              "title": "Angular"
+            },
+            {
+              "id": "frt_03",
+              "title": "Vue"
+            },
+            {
+              "id": "frt_04",
+              "title": "jQuery"
+            },
+            {
+              "id": "frt_05",
+              "title": "TailwindCSS"
+            }
+          ]
+        },
+        {
+          "id": "skills_bck",
+          "title": "Backend Skills",
+          "value": [
+            {
+              "id": "bck_01",
+              "title": "REST"
+            },
+            {
+              "id": "bck_02",
+              "title": "JWT"
+            },
+            {
+              "id": "bck_03",
+              "title": "OAuth"
+            }
+          ]
+        },
+        {
+          "id": "skills_tools",
+          "title": "Tools",
+          "value": [
+            {
+              "id": "tool_01",
+              "title": "Git"
+            },
+            {
+              "id": "tool_02",
+              "title": "Vite"
+            },
+            {
+              "id": "tool_03",
+              "title": "Webpack"
+            },
+            {
+              "id": "tool_04",
+              "title": "Premiere Pro"
+            },
+            {
+              "id": "tool_05",
+              "title": "Lightroom"
+            }
+          ]
+        }
+      ]
+    },
+    "education": {
+      "title": "Education",
+      "educationList": [
+        {
+          "name": "University of Central Florida",
+          "degree": "Full Time Bootcamp Certificate",
+          "date": "2023 - 2023",
+          "desc": ""
+        },
+        {
+          "name": "University of Central Oklahoma",
+          "href": "NA - Business Management",
+          "date": "2008 - 2010",
+          "desc": ""
+        }
+      ]
+    }
+  }
+}
