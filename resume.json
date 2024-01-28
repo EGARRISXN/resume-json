@@ -12,17 +12,17 @@
         {
           "id": "info_01",
           "icon": "Email",
-          "value": "egarrisxn@gmail.com"
+          "value": "Egarrisxn@gmail.com"
         },
         {
           "id": "info_02",
           "icon": "Address",
-          "value": "Orlando, FL 32819"
+          "value": "Orlando, FL. 32819"
         },
         {
           "id": "info_03",
           "icon": "Phone",
-          "value": "+1(580)284-4513"
+          "value": "+1 (580) 284-4513"
         },
         {
           "id": "info_04",
@@ -30,19 +30,19 @@
           "href": "https://www.egxworld.net"
         },
         {
-          "id": "socialMedia_01",
+          "id": "info_05",
+          "icon": "Blog",
+          "href": "https://www.egxblog.net"
+        },
+        {
+          "id": "info_06",
           "icon": "Linkedin",
           "href": "https://www.linkedin.com/in/ethan-garrison"
         },
         {
-          "id": "socialMedia_02",
+          "id": "",
           "icon": "Github",
           "href": "https://github.com/egarrisxn"
-        },
-        {
-          "id": "socialMedia_03",
-          "icon": "Blog",
-          "href": "https://www.egxblog.net"
         }
       ]
     },
@@ -362,6 +362,44 @@
           "degree": "NA - Business Management",
           "date": "2008 - 2010",
           "desc": ""
+        }
+      ]
+    },
+
+    "hobbies": {
+      "title": "Hobbies",
+      "hobbyList": [
+        {
+          "id": "hobby_01",
+          "title": "Traveling"
+        },
+        {
+          "id": "hobby_02",
+          "title": "Building software"
+        },
+        {
+          "id": "hobby_03",
+          "title": "Playing hockey"
+        },
+        {
+          "id": "hobby_04",
+          "title": "Volunteering"
+        },
+        {
+          "id": "hobby_05",
+          "title": "Going hiking"
+        },
+        {
+          "id": "hobby_06",
+          "title": "Live music"
+        },
+        {
+          "id": "hobby_07",
+          "title": "Reading"
+        },
+        {
+          "id": "hobby_08",
+          "title": "Time with family"
         }
       ]
     }
