@@ -1,12 +1,14 @@
 {
   "resumeData": {
     "heading": {
+      "title": "Heading",
       "name": "Ethan Garrison",
-      "title": "Full-Stack Web Developer"
+      "position": "Full-Stack Web Developer"
     },
+
     "contact": {
       "title": "Contact",
-      "info": [
+      "contactInfo": [
         {
           "id": "info_01",
           "icon": "Email",
@@ -44,12 +46,14 @@
         }
       ]
     },
+
     "summary": {
       "title": "Summary",
       "desc": "Seasoned professional with a decade-long background in account management, sales, and leadership. Successfully pivoted to Full-Stack Web Development one year ago, demonstrating a rapid adaptation to new challenges. Blend of managerial experience and recent tech proficiency, offering a unique perspective for strategic problem-solving in web development. Excited to contribute a wealth of diverse skills to a forward-thinking tech team."
     },
+
     "Experience": {
-      "title": "Professional Experience",
+      "title": "Experience",
       "companies": [
         {
           "id": "ps_01",
@@ -185,6 +189,7 @@
         }
       ]
     },
+
     "projects": {
       "title": "Projects",
       "projectsList": [
@@ -226,6 +231,7 @@
         }
       ]
     },
+
     "skills": {
       "title": "Skills",
       "skillList": [
@@ -291,6 +297,7 @@
         }
       ]
     },
+
     "software": {
       "title": "Software",
       "softwareList": [
@@ -340,6 +347,7 @@
         }
       ]
     },
+
     "education": {
       "title": "Education",
       "educationList": [
