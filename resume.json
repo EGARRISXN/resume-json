@@ -61,7 +61,7 @@
 
     "experience": {
       "title": "Experience",
-      "companyList": [
+      "experienceList": [
         {
           "id": "pinksquirrel_01",
           "name": "The Pink Squirrel",
