@@ -12,37 +12,44 @@
         {
           "id": "info_01",
           "icon": "Email",
-          "value": "Egarrisxn@gmail.com"
+          "value": "Egarrisxn@gmail.com",
+          "href": "mailto:egarrisxn@gmail.com"
         },
         {
           "id": "info_02",
           "icon": "Address",
-          "value": "Orlando, FL. 32819"
+          "value": "Orlando, FL. 32819",
+          "href": "https://www.google.com/maps/place/Orlando,+FL+32819"
         },
         {
           "id": "info_03",
           "icon": "Phone",
-          "value": "+1 (580) 284-4513"
+          "value": "+1 (580) 284-4513",
+          "href": "tel:+15802844513"
         },
         {
           "id": "info_04",
           "icon": "Website",
-          "value": "egxworld.net"
+          "value": "egxworld.net",
+          "href": "https://www.egxworld.net"
         },
         {
           "id": "info_05",
           "icon": "Blog",
-          "value": "egxblog.net"
+          "value": "egxblog.net",
+          "href": "https://www.egxblog.net"
         },
         {
           "id": "info_06",
           "icon": "Linkedin",
-          "value": "linkedin.com/in/ethan-garrison"
+          "value": "linkedin.com/in/ethan-garrison",
+          "href": "https://www.linkedin.com/in/ethan-garrison"
         },
         {
           "id": "info_07",
           "icon": "Github",
-          "value": "github.com/egarrisxn"
+          "value": "github.com/egarrisxn",
+          "href": "https://www.github.com/egarrisxn"
         }
       ]
     },
