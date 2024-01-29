@@ -2,8 +2,13 @@
   "resumeData": {
     "heading": {
       "title": "Heading",
-      "name": "Ethan Garrison",
+      "fullName": "Ethan Garrison",
       "position": "Full-Stack Web Developer"
+    },
+
+    "summary": {
+      "title": "Summary",
+      "description": "Seasoned professional with a decade-long background in account management, sales, and leadership. Successfully pivoted to Full-Stack Web Development one year ago, demonstrating a rapid adaptation to new challenges. Blend of managerial experience and recent tech proficiency, offering a unique perspective for strategic problem-solving in web development. Excited to contribute a wealth of diverse skills to a forward-thinking tech team."
     },
 
     "contact": {
@@ -17,7 +22,7 @@
         },
         {
           "id": "info_02",
-          "icon": "Address",
+          "icon": "Location",
           "value": "Orlando, FL. 32819",
           "href": "https://www.google.com/maps/place/Orlando,+FL+32819"
         },
@@ -31,142 +36,137 @@
           "id": "info_04",
           "icon": "Website",
           "value": "egxworld.net",
-          "href": "https://www.egxworld.net"
+          "href": "https://www.egxworld.net/"
         },
         {
           "id": "info_05",
           "icon": "Blog",
           "value": "egxblog.net",
-          "href": "https://www.egxblog.net"
+          "href": "https://www.egxblog.net/"
         },
         {
           "id": "info_06",
           "icon": "Linkedin",
           "value": "linkedin.com/in/ethan-garrison",
-          "href": "https://www.linkedin.com/in/ethan-garrison"
+          "href": "https://www.linkedin.com/in/ethan-garrison/"
         },
         {
           "id": "info_07",
           "icon": "Github",
           "value": "github.com/egarrisxn",
-          "href": "https://www.github.com/egarrisxn"
+          "href": "https://www.github.com/egarrisxn/"
         }
       ]
     },
 
-    "summary": {
-      "title": "Summary",
-      "desc": "Seasoned professional with a decade-long background in account management, sales, and leadership. Successfully pivoted to Full-Stack Web Development one year ago, demonstrating a rapid adaptation to new challenges. Blend of managerial experience and recent tech proficiency, offering a unique perspective for strategic problem-solving in web development. Excited to contribute a wealth of diverse skills to a forward-thinking tech team."
-    },
-
     "Experience": {
       "title": "Experience",
-      "companies": [
+      "companyList": [
         {
-          "id": "ps_01",
+          "id": "pinksquirrel_01",
           "companyName": "The Pink Squirrel",
-          "address": "Chicago, IL",
+          "companyLocation": "Chicago, IL",
           "designations": [
             {
-              "id": "ps_01_01",
-              "title": "Assistant General Manager",
+              "id": "pinksquirrel_01_01",
+              "position": "Assistant General Manager",
               "duration": "2022 - 2023",
-              "desc": [
+              "duty": [
                 {
-                  "id": "ps_01_01_01",
-                  "title": "Created innovative marketing and advertising campaigns to promote restaurant promotional offers and increase sales."
+                  "id": "pinksquirrel_01_01_01",
+                  "dutyList": "Created innovative marketing and advertising campaigns to promote restaurant promotional offers and increase sales."
                 },
                 {
-                  "id": "ps_01_01_02",
-                  "title": "Engaged team members and improved performance by delivering daily updates and conducting daily meetings to obtain feedback."
+                  "id": "pinksquirrel_01_01_02",
+                  "dutyList": "Engaged team members and improved performance by delivering daily updates and conducting daily meetings to obtain feedback."
                 }
               ]
             }
           ]
         },
         {
-          "id": "rt_01",
+          "id": "roughtail_01",
           "companyName": "Roughtail Brewing Company",
-          "address": "Oklahoma City, OK",
+          "companyLocation": "Oklahoma City, OK",
           "designations": [
             {
-              "id": "rt_01_01",
-              "title": "Account Manager",
+              "id": "roughtail_01_01",
+              "position": "Account Manager",
               "duration": "2021 - 2022",
-              "desc": [
+              "dutyList": [
                 {
-                  "id": "rt_01_01_01",
-                  "title": "Built and strengthened long-lasting client relationships based on accurate price quotes and customer-centric terms."
+                  "id": "roughtail_01_01_01",
+                  "duty": "Built and strengthened long-lasting client relationships based on accurate price quotes and customer-centric terms."
                 },
                 {
-                  "id": "rt_01_01_02",
-                  "title": "Identified key entry points to enhance market penetration and maximize returns."
+                  "id": "roughtail_01_01_02",
+                  "duty": "Identified key entry points to enhance market penetration and maximize returns."
                 }
               ]
             }
           ]
         },
         {
-          "id": "aaw_01",
+          "id": "armadillo_01",
           "companyName": "Armadillo Ale Works",
-          "address": "Denton, TX",
+          "companyLocation": "Denton, TX",
           "designations": [
             {
-              "id": "aaw_01_01",
-              "title": "Account Manager",
+              "id": "armadillo_01_01",
+              "position": "Account Manager",
               "duration": "2020 - 2021",
-              "desc": [
+              "dutyList": [
                 {
-                  "id": "aaw_01_01_01",
-                  "title": "Oversaw new business development to generate sales leads, negotiate client pricing and forecast revenue."
+                  "id": "armadillo_01_01_01",
+                  "duty": "Oversaw new business development to generate sales leads, negotiate client pricing and forecast revenue."
                 },
                 {
-                  "id": "aaw_01_01_02",
-                  "title": "Reviewed and mitigated discrepancies to increase sales, reduce costs and streamline processes."
+                  "id": "armadillo_01_01_02",
+                  "duty": "Reviewed and mitigated discrepancies to increase sales, reduce costs and streamline processes."
                 }
               ]
             }
           ]
         },
         {
-          "id": "ns_01",
+          "id": "northside_01",
           "companyName": "Northside Drafthouse & Eatery",
-          "address": "Richardson, TX",
+          "companyLocation": "Richardson, TX",
           "designations": [
             {
-              "id": "ns_01_01",
-              "title": "Assistant General Manager",
+              "id": "northside_01_01",
+              "position": "Assistant General Manager",
               "duration": "2018 - 2020",
-              "desc": [
+              "dutyList": [
                 {
-                  "id": "ns_01_01_01",
-                  "title": "Built and strengthened area partnerships to reap benefits such as new revenue channels and enhanced public awareness."
+                  "id": "northside_01_01_01",
+                  "duty": "Built and strengthened area partnerships to reap benefits such as new revenue channels and enhanced public awareness."
                 },
                 {
-                  "id": "ns_01_01_02",
-                  "title": "Helped team members maintain business professionalism by coaching on methods for delivering exceptional service."
+                  "id": "northside_01_01_02",
+                  "duty": "Helped team members maintain business professionalism by coaching on methods for delivering exceptional service."
                 }
               ]
             }
           ]
         },
         {
-          "id": "fc_01",
+          "id": "fullclip_01",
           "companyName": "Fullclip Craft Distributors",
-          "address": "Dallas, TX",
+          "companyLocation": "Dallas, TX",
           "designations": [
             {
-              "id": "fc_01_01",
-              "title": "Assistant General Manager",
+              "id": "fullclip_01_01",
+              "position": "Assistant General Manager",
               "duration": "2015 - 2018",
-              "desc": [
+              "dutyList": [
                 {
-                  "id": "fc_01_01_01",
-                  "title": "Facilitated client satisfaction and renewed customer relations to drive growth."
+                  "id": "fullclip_01_01_01",
+                  "duty": "Facilitated client satisfaction and renewed customer relations to drive growth."
                 },
                 {
-                  "id": "fc_01_01_02",
-                  "title": "Educated clients on new products or services to increase customer engagement with brand."
+                  "id": "fullclip_01_01_02",
+                  "duty": "Educated clients on new products or services to increase customer engagement with brand."
                 }
               ]
             }
@@ -175,20 +175,20 @@
         {
           "id": "dbk_01",
           "companyName": "Dallas Beer Kitchen",
-          "address": "Dallas, TX",
+          "companyLocation": "Dallas, TX",
           "designations": [
             {
               "id": "dbk_01_01",
-              "title": "Assistant General Manager",
+              "position": "Assistant General Manager",
               "duration": "2012 - 2015",
-              "desc": [
+              "dutyList": [
                 {
                   "id": "dbk_01_01_01",
-                  "title": "Managed budget implementations, employee reviews, training, schedules, and contract negotiations."
+                  "duty": "Managed budget implementations, employee reviews, training, schedules, and contract negotiations."
                 },
                 {
                   "id": "dbk_01_01_02",
-                  "title": "Maximized operational excellence mentoring staff on leadership principles, industry practices, and company procedures."
+                  "duty": "Maximized operational excellence mentoring staff on leadership principles, industry practices, and company procedures."
                 }
               ]
             }
@@ -202,45 +202,45 @@
       "projectsList": [
         {
           "id": "project_01",
-          "name": "egxworld",
+          "projectName": "egxworld",
+          "href": "https://www.egxworld.net/",
           "value": "egxworld.net",
-          "href": "https://www.egxworld.net",
-          "desc": "My personal Website site I've created to showcase my projects, skills, experience, and more."
+          "description": "My personal Website site I've created to showcase my projects, skills, experience, and more."
         },
         {
           "id": "project_02",
-          "name": "egxblog",
+          "projectName": "egxblog",
+          "href": "https://www.egxblog.net/",
           "value": "egxblog.net",
-          "href": "https://www.egxblog.net",
-          "desc": "My personal blog I've created to document my journey as a developer. I'll be posting about my projects, my experiences, and my thoughts."
+          "description": "My personal blog I've created to document my journey as a developer. I'll be posting about my projects, my experiences, and my thoughts."
         },
         {
           "id": "project_03",
-          "name": "Sway Bae Official",
+          "projectName": "Sway Bae Official",
+          "href": "https://www.swaybae.net/",
           "value": "swaybae.net",
-          "href": "https://www.swaybae.net",
-          "desc": "The Official Sway Bae site showcases this professional streamer's assets, achievements, social media links, and much more. Check out and support Sway Bae!"
+          "description": "The Official Sway Bae site showcases this professional streamer's assets, achievements, social media links, and much more. Check out and support Sway Bae!"
         },
         {
           "id": "project_04",
-          "name": "StreamVerse",
+          "projectName": "StreamVerse",
+          "href": "https://streamversee.herokuapp.com/",
           "value": "streamversee.herokuapp.com",
-          "href": "https://streamversee.herokuapp.com",
-          "desc": "The StreamVerse is a movie database that allows users to access, rate, and add movies to different lists, along with socialize with like-minded movie lovers. Welcome to the Streamverse!"
+          "description": "The StreamVerse is a movie database that allows users to access, rate, and add movies to different lists, along with socialize with like-minded movie lovers. Welcome to the Streamverse!"
         },
         {
           "id": "project_05",
-          "name": "Event Ease",
+          "projectName": "Event Ease",
+          "href": "https://event-ease.herokuapp.com/",
           "value": "event-ease.herokuapp.com",
-          "href": "https://event-ease.herokuapp.com",
-          "desc": "Event Ease is an easy to use event planner that allows users to plan and manage events, keeping track of attendees, RSVPs, and event details. Enjoy your event!"
+          "description": "Event Ease is an easy to use event planner that allows users to plan and manage events, keeping track of attendees, RSVPs, and event details. Enjoy your event!"
         },
         {
           "id": "project_06",
-          "name": "Player One Reads",
+          "projectName": "Player One Reads",
+          "href": "https://egarrisxn.github.io/Player-One-Reads/",
           "value": "egarrisxn.github.io/Player-One-Reads",
-          "href": "https://egarrisxn.github.io/Player-One-Reads",
-          "desc": "Player One Reads generates book suggestions based upon a user's video game interests. Once you've found your suggested book, you'll have the option to read or purchase it. Happy reading!"
+          "desccription": "Player One Reads generates book suggestions based upon a user's video game interests. Once you've found your suggested book, you'll have the option to read or purchase it. Happy reading!"
         }
       ]
     },
@@ -250,63 +250,73 @@
       "skillList": [
         {
           "id": "skill_01",
-          "title": "Project Management"
+          "skillName": "Project Management",
+          "desccription": ""
         },
         {
           "id": "skill_02",
-          "title": "JavaScript Programming"
+          "skillName": "Team collaboration",
+          "desccription": ""
         },
         {
           "id": "skill_03",
-          "title": "Application Development"
+          "skillName": "Communication Skills",
+          "desccription": ""
         },
         {
           "id": "skill_04",
-          "title": "Team Collaboration"
+          "skillName": "Application Development",
+          "desccription": ""
         },
         {
           "id": "skill_05",
-          "title": "Performance Optimization"
+          "skillName": "UX/UI Responsive Design",
+          "desccription": ""
         },
         {
           "id": "skill_06",
-          "title": "RESTful API Design"
+          "skillName": "Front-End Frameworks",
+          "desccription": ""
         },
         {
           "id": "skill_07",
-          "title": "UX/UI Design"
+          "skillName": "Agile/Scrum Methodologies",
+          "desccription": ""
         },
         {
           "id": "skill_08",
-          "title": "Front-End Frameworks"
+          "skillName": "Performance Optimization",
+          "desccription": ""
         },
         {
           "id": "skill_09",
-          "title": "Backend Development"
+          "skillName": "RESTful API Design & Implementation",
+          "desccription": ""
         },
         {
           "id": "skill_10",
-          "title": "Git Version Control"
+          "skillName": "Server Management & Deployment",
+          "desccription": ""
         },
         {
           "id": "skill_11",
-          "title": "Agile Methodologies"
+          "skillName": "Database Design & Management",
+          "desccription": ""
         },
         {
           "id": "skill_12",
-          "title": "OOP"
+          "skillName": "Object-Oriented Programming (OOP)",
+          "desccription": ""
         },
         {
           "id": "skill_13",
-          "title": "Security & Data Protection"
+          "skillName": "Continuous Intergration & Deployment (CI/CD)",
+          "desccription": ""
         },
         {
           "id": "skill_14",
-          "title": "Communication Skills"
-        },
-        {
-          "id": "skill_15",
-          "title": "CI/CD"
+          "skillName": "Authentication & Authorization",
+          "desccription": ""
         }
       ]
     },
@@ -316,47 +326,111 @@
       "softwareList": [
         {
           "id": "software_01",
-          "title": "Javascript"
+          "softwareTitle": "Javascript",
+          "href": "https://www.javascript.com/",
+          "desccription": ""
         },
         {
           "id": "software_02",
-          "title": "HTML/CSS"
+          "softwareTitle": "Typescript",
+          "href": "https://www.typescriptlang.org/",
+          "desccription": ""
         },
         {
           "id": "software_03",
-          "title": "React/Angular/Vue"
+          "softwareTitle": "HTML5",
+          "href": "https://html.com/html5/",
+          "desccription": ""
         },
         {
           "id": "software_04",
-          "title": "SQL/NoSQL"
+          "softwareTitle": "CSS3",
+          "href": "https://css3.com/",
+          "desccription": ""
         },
         {
           "id": "software_05",
-          "title": "Express"
+          "softwareTitle": "Git",
+          "href": "https://git-scm.com/",
+          "desccription": ""
         },
         {
           "id": "software_06",
-          "title": "Node.js"
+          "softwareTitle": "React",
+          "href": "https://react.dev/",
+          "desccription": ""
         },
         {
           "id": "software_07",
-          "title": "Typescript"
+          "softwareTitle": "Next.js",
+          "href": "https://nextjs.org/",
+          "desccription": ""
+        },
+        {
+          "id": "software_08",
+          "softwareTitle": "Vue.js",
+          "href": "https://vuejs.org/",
+          "desccription": ""
         },
         {
           "id": "software_09",
-          "title": "GraphQL"
+          "softwareTitle": "Angular",
+          "href": "https://angular.io/",
+          "desccription": ""
         },
         {
           "id": "software_10",
-          "title": "jQuery"
+          "softwareTitle": "TailwindCSS",
+          "href": "https://tailwindcss.com/",
+          "desccription": ""
         },
         {
           "id": "software_11",
-          "title": "Webpack"
+          "title": "MySQL",
+          "href": "https://www.mysql.com/",
+          "desccription": ""
         },
         {
           "id": "software_12",
-          "title": "OAth"
+          "softwareTitle": "MongoDB",
+          "href": "https://www.mongodb.com/",
+          "desccription": ""
+        },
+        {
+          "id": "software_13",
+          "softwareTitle": "GraphQL",
+          "href": "https://graphql.org/",
+          "desccription": ""
+        },
+        {
+          "id": "software_14",
+          "softwareTitle": "jQuery",
+          "href": "https://jquery.com/",
+          "desccription": ""
+        },
+        {
+          "id": "software_15",
+          "softwareTitle": "Express",
+          "href": "https://expressjs.com/",
+          "desccription": ""
+        },
+        {
+          "id": "software_16",
+          "softwareTitle": "Node.js",
+          "href": "https://nodejs.org/",
+          "desccription": ""
+        },
+        {
+          "id": "software_17",
+          "softwareTitle": "Webpack",
+          "href": "https://webpack.js.org/",
+          "desccription": ""
+        },
+        {
+          "id": "software_18",
+          "softwareTitle": "OAth",
+          "href": "https://oauth.net/2/",
+          "desccription": ""
         }
       ]
     },
@@ -366,15 +440,21 @@
       "educationList": [
         {
           "name": "University of Central Florida",
-          "degree": "Full Time Bootcamp Certificate",
-          "date": "2023 - 2023",
-          "desc": ""
+          "href": "https://www.ucf.edu/",
+          "location": "Orlando, FL.",
+          "certificateOrDegree": "Full-Stack Web Development Bootcamp Certificate",
+          "duration": "2023 - 2023",
+          "gpa": "",
+          "description": ""
         },
         {
           "name": "University of Central Oklahoma",
-          "degree": "NA - Business Management",
-          "date": "2008 - 2010",
-          "desc": ""
+          "href": "https://www.uco.edu/",
+          "location": "Edmond, OK.",
+          "certificateOrDegree": "NA - Business Management",
+          "duration": "2008 - 2010",
+          "gpa": "",
+          "description": ""
         }
       ]
     },
@@ -384,35 +464,43 @@
       "hobbyList": [
         {
           "id": "hobby_01",
-          "title": "Traveling"
+          "title": "Traveling the world",
+          "desccription": ""
         },
         {
           "id": "hobby_02",
-          "title": "Building software"
+          "title": "Building software",
+          "desccription": ""
         },
         {
           "id": "hobby_03",
-          "title": "Playing hockey"
+          "title": "Playing hockey",
+          "desccription": ""
         },
         {
           "id": "hobby_04",
-          "title": "Volunteering"
+          "title": "Volunteering",
+          "desccription": ""
         },
         {
           "id": "hobby_05",
-          "title": "Going hiking"
+          "title": "Going hiking",
+          "desccription": ""
         },
         {
           "id": "hobby_06",
-          "title": "Live music"
+          "title": "Live music events",
+          "desccription": ""
         },
         {
           "id": "hobby_07",
-          "title": "Reading"
+          "title": "Reading a good book",
+          "desccription": ""
         },
         {
           "id": "hobby_08",
-          "title": "Time with family"
+          "title": "Spending time with family",
+          "desccription": ""
         }
       ]
     }
