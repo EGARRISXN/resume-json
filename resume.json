@@ -439,6 +439,7 @@
       "title": "Education",
       "educationList": [
         {
+          "id": "education_01",
           "school": "University of Central Florida",
           "href": "https://www.ucf.edu/",
           "location": "Orlando, FL.",
@@ -448,6 +449,7 @@
           "description": ""
         },
         {
+          "id": "education_02",
           "school": "University of Central Oklahoma",
           "href": "https://www.uco.edu/",
           "location": "Edmond, OK.",
