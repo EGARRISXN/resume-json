@@ -199,7 +199,7 @@
 
     "projects": {
       "title": "Projects",
-      "projectsList": [
+      "projectList": [
         {
           "id": "project_01",
           "projectName": "egxworld",
