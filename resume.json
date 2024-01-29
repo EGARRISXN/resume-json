@@ -13,7 +13,7 @@
 
     "contact": {
       "title": "Contact",
-      "contactInfo": [
+      "contactList": [
         {
           "id": "info_01",
           "icon": "Email",
