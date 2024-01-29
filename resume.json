@@ -196,37 +196,43 @@
         {
           "id": "project_01",
           "name": "egxworld",
+          "value": "egxworld.net",
           "href": "https://www.egxworld.net",
           "desc": "My personal Website site I've created to showcase my projects, skills, experience, and more."
         },
         {
           "id": "project_02",
           "name": "egxblog",
+          "value": "egxblog.net",
           "href": "https://www.egxblog.net",
           "desc": "My personal blog I've created to document my journey as a developer. I'll be posting about my projects, my experiences, and my thoughts."
         },
         {
           "id": "project_03",
           "name": "Sway Bae Official",
+          "value": "swaybae.net",
           "href": "https://www.swaybae.net",
           "desc": "The Official Sway Bae site showcases this professional streamer's assets, achievements, social media links, and much more. Check out and support Sway Bae!"
         },
         {
           "id": "project_04",
           "name": "StreamVerse",
-          "href": "https://streamversee.herokuapp.com/",
+          "value": "streamversee.herokuapp.com",
+          "href": "https://streamversee.herokuapp.com",
           "desc": "The StreamVerse is a movie database that allows users to access, rate, and add movies to different lists, along with socialize with like-minded movie lovers. Welcome to the Streamverse!"
         },
         {
           "id": "project_05",
           "name": "Event Ease",
-          "href": "https://event-ease.herokuapp.com/",
+          "value": "event-ease.herokuapp.com",
+          "href": "https://event-ease.herokuapp.com",
           "desc": "Event Ease is an easy to use event planner that allows users to plan and manage events, keeping track of attendees, RSVPs, and event details. Enjoy your event!"
         },
         {
           "id": "project_06",
           "name": "Player One Reads",
-          "href": "https://egarrisxn.github.io/Player-One-Reads/",
+          "value": "egarrisxn.github.io/Player-One-Reads",
+          "href": "https://egarrisxn.github.io/Player-One-Reads",
           "desc": "Player One Reads generates book suggestions based upon a user's video game interests. Once you've found your suggested book, you'll have the option to read or purchase it. Happy reading!"
         }
       ]
