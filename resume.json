@@ -66,7 +66,7 @@
           "id": "pinksquirrel_01",
           "companyName": "The Pink Squirrel",
           "companyLocation": "Chicago, IL",
-          "designations": [
+          "detailList": [
             {
               "id": "pinksquirrel_01_01",
               "position": "Assistant General Manager",
@@ -88,7 +88,7 @@
           "id": "roughtail_01",
           "companyName": "Roughtail Brewing Company",
           "companyLocation": "Oklahoma City, OK",
-          "designations": [
+          "detailList": [
             {
               "id": "roughtail_01_01",
               "position": "Account Manager",
@@ -110,7 +110,7 @@
           "id": "armadillo_01",
           "companyName": "Armadillo Ale Works",
           "companyLocation": "Denton, TX",
-          "designations": [
+          "detailList": [
             {
               "id": "armadillo_01_01",
               "position": "Account Manager",
@@ -132,7 +132,7 @@
           "id": "northside_01",
           "companyName": "Northside Drafthouse & Eatery",
           "companyLocation": "Richardson, TX",
-          "designations": [
+          "detailList": [
             {
               "id": "northside_01_01",
               "position": "Assistant General Manager",
@@ -154,7 +154,7 @@
           "id": "fullclip_01",
           "companyName": "Fullclip Craft Distributors",
           "companyLocation": "Dallas, TX",
-          "designations": [
+          "detailList": [
             {
               "id": "fullclip_01_01",
               "position": "Assistant General Manager",
@@ -176,7 +176,7 @@
           "id": "dbk_01",
           "companyName": "Dallas Beer Kitchen",
           "companyLocation": "Dallas, TX",
-          "designations": [
+          "detailList": [
             {
               "id": "dbk_01_01",
               "position": "Assistant General Manager",
