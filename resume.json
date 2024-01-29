@@ -439,7 +439,7 @@
       "title": "Education",
       "educationList": [
         {
-          "name": "University of Central Florida",
+          "school": "University of Central Florida",
           "href": "https://www.ucf.edu/",
           "location": "Orlando, FL.",
           "certificateOrDegree": "Full-Stack Web Development Bootcamp Certificate",
@@ -448,7 +448,7 @@
           "description": ""
         },
         {
-          "name": "University of Central Oklahoma",
+          "school": "University of Central Oklahoma",
           "href": "https://www.uco.edu/",
           "location": "Edmond, OK.",
           "certificateOrDegree": "NA - Business Management",
@@ -464,42 +464,42 @@
       "hobbyList": [
         {
           "id": "hobby_01",
-          "title": "Traveling the world",
+          "hobby": "Traveling the world",
           "desccription": ""
         },
         {
           "id": "hobby_02",
-          "title": "Building software",
+          "hobby": "Building software",
           "desccription": ""
         },
         {
           "id": "hobby_03",
-          "title": "Playing hockey",
+          "hobby": "Playing hockey",
           "desccription": ""
         },
         {
           "id": "hobby_04",
-          "title": "Volunteering",
+          "hobby": "Volunteering",
           "desccription": ""
         },
         {
           "id": "hobby_05",
-          "title": "Going hiking",
+          "hobby": "Going hiking",
           "desccription": ""
         },
         {
           "id": "hobby_06",
-          "title": "Live music events",
+          "hobby": "Live music events",
           "desccription": ""
         },
         {
           "id": "hobby_07",
-          "title": "Reading a good book",
+          "hobby": "Reading a good book",
           "desccription": ""
         },
         {
           "id": "hobby_08",
-          "title": "Spending time with family",
+          "hobby": "Spending time with family",
           "desccription": ""
         }
       ]
