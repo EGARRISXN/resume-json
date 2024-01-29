@@ -74,11 +74,11 @@
               "dutyList": [
                 {
                   "id": "pinksquirrel_01_01_01",
-                  "dutyList": "Created innovative marketing and advertising campaigns to promote restaurant promotional offers and increase sales."
+                  "duty": "Created innovative marketing and advertising campaigns to promote restaurant promotional offers and increase sales."
                 },
                 {
                   "id": "pinksquirrel_01_01_02",
-                  "dutyList": "Engaged team members and improved performance by delivering daily updates and conducting daily meetings to obtain feedback."
+                  "duty": "Engaged team members and improved performance by delivering daily updates and conducting daily meetings to obtain feedback."
                 }
               ]
             }
