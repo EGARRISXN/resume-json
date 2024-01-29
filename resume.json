@@ -8,7 +8,7 @@
 
     "summary": {
       "title": "Summary",
-      "description": "Seasoned professional with a decade-long background in account management, sales, and leadership. Successfully pivoted to Full-Stack Web Development one year ago, demonstrating a rapid adaptation to new challenges. Blend of managerial experience and recent tech proficiency, offering a unique perspective for strategic problem-solving in web development. Excited to contribute a wealth of diverse skills to a forward-thinking tech team."
+      "resumeSummary": "Seasoned professional with a decade-long background in account management, sales, and leadership. Successfully pivoted to Full-Stack Web Development one year ago, demonstrating a rapid adaptation to new challenges. Blend of managerial experience and recent tech proficiency, offering a unique perspective for strategic problem-solving in web development. Excited to contribute a wealth of diverse skills to a forward-thinking tech team."
     },
 
     "contact": {
@@ -204,43 +204,43 @@
           "id": "project_01",
           "projectName": "egxworld",
           "href": "https://www.egxworld.net/",
-          "value": "egxworld.net",
-          "description": "My personal Website site I've created to showcase my projects, skills, experience, and more."
+          "hrefTitle": "egxworld.net",
+          "projectDescription": "My personal Website site I've created to showcase my projects, skills, experience, and more."
         },
         {
           "id": "project_02",
           "projectName": "egxblog",
           "href": "https://www.egxblog.net/",
-          "value": "egxblog.net",
-          "description": "My personal blog I've created to document my journey as a developer. I'll be posting about my projects, my experiences, and my thoughts."
+          "hrefTitle": "egxblog.net",
+          "projectDescription": "My personal blog I've created to document my journey as a developer. I'll be posting about my projects, my experiences, and my thoughts."
         },
         {
           "id": "project_03",
           "projectName": "Sway Bae Official",
           "href": "https://www.swaybae.net/",
-          "value": "swaybae.net",
-          "description": "The Official Sway Bae site showcases this professional streamer's assets, achievements, social media links, and much more. Check out and support Sway Bae!"
+          "hrefTitle": "swaybae.net",
+          "desprojectDescriptioncription": "The Official Sway Bae site showcases this professional streamer's assets, achievements, social media links, and much more. Check out and support Sway Bae!"
         },
         {
           "id": "project_04",
           "projectName": "StreamVerse",
           "href": "https://streamversee.herokuapp.com/",
-          "value": "streamversee.herokuapp.com",
-          "description": "The StreamVerse is a movie database that allows users to access, rate, and add movies to different lists, along with socialize with like-minded movie lovers. Welcome to the Streamverse!"
+          "hrefTitle": "streamversee.herokuapp.com",
+          "projectDescription": "The StreamVerse is a movie database that allows users to access, rate, and add movies to different lists, along with socialize with like-minded movie lovers. Welcome to the Streamverse!"
         },
         {
           "id": "project_05",
           "projectName": "Event Ease",
           "href": "https://event-ease.herokuapp.com/",
-          "value": "event-ease.herokuapp.com",
-          "description": "Event Ease is an easy to use event planner that allows users to plan and manage events, keeping track of attendees, RSVPs, and event details. Enjoy your event!"
+          "hrefTitle": "event-ease.herokuapp.com",
+          "projectDescription": "Event Ease is an easy to use event planner that allows users to plan and manage events, keeping track of attendees, RSVPs, and event details. Enjoy your event!"
         },
         {
           "id": "project_06",
           "projectName": "Player One Reads",
           "href": "https://egarrisxn.github.io/Player-One-Reads/",
-          "value": "egarrisxn.github.io/Player-One-Reads",
-          "desccription": "Player One Reads generates book suggestions based upon a user's video game interests. Once you've found your suggested book, you'll have the option to read or purchase it. Happy reading!"
+          "hrefTitle": "egarrisxn.github.io/Player-One-Reads",
+          "projectDescription": "Player One Reads generates book suggestions based upon a user's video game interests. Once you've found your suggested book, you'll have the option to read or purchase it. Happy reading!"
         }
       ]
     },
@@ -251,72 +251,72 @@
         {
           "id": "skill_01",
           "skillName": "Project Management",
-          "desccription": ""
+          "skillDescription": ""
         },
         {
           "id": "skill_02",
           "skillName": "Team collaboration",
-          "desccription": ""
+          "skillDescription": ""
         },
         {
           "id": "skill_03",
           "skillName": "Communication Skills",
-          "desccription": ""
+          "skillDescription": ""
         },
         {
           "id": "skill_04",
           "skillName": "Application Development",
-          "desccription": ""
+          "skillDescription": ""
         },
         {
           "id": "skill_05",
           "skillName": "UX/UI Responsive Design",
-          "desccription": ""
+          "skillDescription": ""
         },
         {
           "id": "skill_06",
           "skillName": "Front-End Frameworks",
-          "desccription": ""
+          "skillDescription": ""
         },
         {
           "id": "skill_07",
           "skillName": "Agile/Scrum Methodologies",
-          "desccription": ""
+          "skillDescription": ""
         },
         {
           "id": "skill_08",
           "skillName": "Performance Optimization",
-          "desccription": ""
+          "skillDescription": ""
         },
         {
           "id": "skill_09",
           "skillName": "RESTful API Design & Implementation",
-          "desccription": ""
+          "skillDescription": ""
         },
         {
           "id": "skill_10",
           "skillName": "Server Management & Deployment",
-          "desccription": ""
+          "skillDescription": ""
         },
         {
           "id": "skill_11",
           "skillName": "Database Design & Management",
-          "desccription": ""
+          "skillDescription": ""
         },
         {
           "id": "skill_12",
           "skillName": "Object-Oriented Programming (OOP)",
-          "desccription": ""
+          "skillDescription": ""
         },
         {
           "id": "skill_13",
           "skillName": "Continuous Intergration & Deployment (CI/CD)",
-          "desccription": ""
+          "skillDescription": ""
         },
         {
           "id": "skill_14",
           "skillName": "Authentication & Authorization",
-          "desccription": ""
+          "skillDescription": ""
         }
       ]
     },
@@ -326,111 +326,111 @@
       "softwareList": [
         {
           "id": "software_01",
-          "softwareTitle": "Javascript",
+          "softwareName": "Javascript",
           "href": "https://www.javascript.com/",
-          "desccription": ""
+          "softwareDescription": ""
         },
         {
           "id": "software_02",
-          "softwareTitle": "Typescript",
+          "softwareName": "Typescript",
           "href": "https://www.typescriptlang.org/",
-          "desccription": ""
+          "softwareDescription": ""
         },
         {
           "id": "software_03",
-          "softwareTitle": "HTML5",
+          "softwareName": "HTML5",
           "href": "https://html.com/html5/",
-          "desccription": ""
+          "softwareDescription": ""
         },
         {
           "id": "software_04",
-          "softwareTitle": "CSS3",
+          "softwareName": "CSS3",
           "href": "https://css3.com/",
-          "desccription": ""
+          "softwareDescription": ""
         },
         {
           "id": "software_05",
-          "softwareTitle": "Git",
+          "softwareName": "Git",
           "href": "https://git-scm.com/",
-          "desccription": ""
+          "softwareDescription": ""
         },
         {
           "id": "software_06",
-          "softwareTitle": "React",
+          "softwareName": "React",
           "href": "https://react.dev/",
-          "desccription": ""
+          "softwareDescription": ""
         },
         {
           "id": "software_07",
-          "softwareTitle": "Next.js",
+          "softwareName": "Next.js",
           "href": "https://nextjs.org/",
-          "desccription": ""
+          "softwareDescription": ""
         },
         {
           "id": "software_08",
-          "softwareTitle": "Vue.js",
+          "softwareName": "Vue.js",
           "href": "https://vuejs.org/",
-          "desccription": ""
+          "softwareDescription": ""
         },
         {
           "id": "software_09",
-          "softwareTitle": "Angular",
+          "softwareName": "Angular",
           "href": "https://angular.io/",
-          "desccription": ""
+          "softwareDescription": ""
         },
         {
           "id": "software_10",
-          "softwareTitle": "TailwindCSS",
+          "softwareName": "TailwindCSS",
           "href": "https://tailwindcss.com/",
           "desccription": ""
         },
         {
           "id": "software_11",
-          "title": "MySQL",
+          "softwareName": "MySQL",
           "href": "https://www.mysql.com/",
-          "desccription": ""
+          "softwareDescription": ""
         },
         {
           "id": "software_12",
-          "softwareTitle": "MongoDB",
+          "softwareName": "MongoDB",
           "href": "https://www.mongodb.com/",
-          "desccription": ""
+          "softwareDescription": ""
         },
         {
           "id": "software_13",
-          "softwareTitle": "GraphQL",
+          "softwareName": "GraphQL",
           "href": "https://graphql.org/",
-          "desccription": ""
+          "softwareDescription": ""
         },
         {
           "id": "software_14",
-          "softwareTitle": "jQuery",
+          "softwareName": "jQuery",
           "href": "https://jquery.com/",
-          "desccription": ""
+          "softwareDescription": ""
         },
         {
           "id": "software_15",
-          "softwareTitle": "Express",
+          "softwareName": "Express",
           "href": "https://expressjs.com/",
-          "desccription": ""
+          "softwareDescription": ""
         },
         {
           "id": "software_16",
-          "softwareTitle": "Node.js",
+          "softwareName": "Node.js",
           "href": "https://nodejs.org/",
-          "desccription": ""
+          "softwareDescription": ""
         },
         {
           "id": "software_17",
-          "softwareTitle": "Webpack",
+          "softwareName": "Webpack",
           "href": "https://webpack.js.org/",
-          "desccription": ""
+          "softwareDescription": ""
         },
         {
           "id": "software_18",
-          "softwareTitle": "OAth",
+          "softwareName": "OAth",
           "href": "https://oauth.net/2/",
-          "desccription": ""
+          "softwareDescription": ""
         }
       ]
     },
@@ -440,23 +440,23 @@
       "educationList": [
         {
           "id": "education_01",
-          "school": "University of Central Florida",
+          "schoolName": "University of Central Florida",
+          "schoolLocation": "Orlando, FL.",
           "href": "https://www.ucf.edu/",
-          "location": "Orlando, FL.",
           "certificateOrDegree": "Full-Stack Web Development Bootcamp Certificate",
           "duration": "2023 - 2023",
           "gpa": "",
-          "description": ""
+          "educationDescription": ""
         },
         {
           "id": "education_02",
-          "school": "University of Central Oklahoma",
+          "schoolName": "University of Central Oklahoma",
+          "schoolLocation": "Edmond, OK.",
           "href": "https://www.uco.edu/",
-          "location": "Edmond, OK.",
           "certificateOrDegree": "NA - Business Management",
           "duration": "2008 - 2010",
           "gpa": "",
-          "description": ""
+          "educationDescription": ""
         }
       ]
     },
@@ -467,42 +467,42 @@
         {
           "id": "hobby_01",
           "hobby": "Traveling the world",
-          "desccription": ""
+          "hobbyDescription": ""
         },
         {
           "id": "hobby_02",
           "hobby": "Building software",
-          "desccription": ""
+          "hobbyDescription": ""
         },
         {
           "id": "hobby_03",
           "hobby": "Playing hockey",
-          "desccription": ""
+          "hobbyDescription": ""
         },
         {
           "id": "hobby_04",
           "hobby": "Volunteering",
-          "desccription": ""
+          "hobbyDescription": ""
         },
         {
           "id": "hobby_05",
           "hobby": "Going hiking",
-          "desccription": ""
+          "hobbyDescription": ""
         },
         {
           "id": "hobby_06",
           "hobby": "Live music events",
-          "desccription": ""
+          "hobbyDescription": ""
         },
         {
           "id": "hobby_07",
           "hobby": "Reading a good book",
-          "desccription": ""
+          "hobbyDescription": ""
         },
         {
           "id": "hobby_08",
           "hobby": "Spending time with family",
-          "desccription": ""
+          "hobbyDescription": ""
         }
       ]
     }
