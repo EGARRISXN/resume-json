@@ -3,7 +3,8 @@
     "heading": {
       "title": "",
       "name": "Ethan Garrison",
-      "position": "Full-Stack Web Developer"
+      "position": "Full-Stack Web Developer",
+      "avatar": "/images/avatar.png"
     },
 
     "summary": {
