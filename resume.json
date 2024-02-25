@@ -19,7 +19,7 @@
           "id": "info_01",
           "icon": "Email",
           "href": "mailto:egarrisxn@gmail.com",
-          "value": "Email Address"
+          "value": "Email"
         },
         {
           "id": "info_02",
@@ -31,19 +31,19 @@
           "id": "info_03",
           "icon": "Phone",
           "href": "tel:+15555555555",
-          "value": "Phone Number"
+          "value": "Phone"
         },
         {
           "id": "info_04",
           "icon": "Website",
           "href": "https://www.egxworld.net/",
-          "value": "egxworld.net"
+          "value": "Website"
         },
         {
           "id": "info_05",
           "icon": "Blog",
           "href": "https://www.egxblog.net/",
-          "value": "egxblog.net"
+          "value": "Blog"
         },
         {
           "id": "info_06",
