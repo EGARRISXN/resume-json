@@ -2,7 +2,7 @@
   "resumeData": {
     "heading": {
       "title": "",
-      "name": "Ethan Garrison",
+      "name": "Ethan G.",
       "position": "Full-Stack Web Developer",
       "avatar": "https://egarrisxn.github.io/resume-json/images/avatar.png"
     },
@@ -19,19 +19,19 @@
           "id": "info_01",
           "icon": "Email",
           "href": "mailto:egarrisxn@gmail.com",
-          "value": "Egarrisxn@gmail.com"
+          "value": "Email Address"
         },
         {
           "id": "info_02",
           "icon": "Location",
-          "href": "https://www.google.com/maps/place/Orlando,+FL+32819",
-          "value": "Orlando, FL. 32819"
+          "href": "https://www.google.com/maps/place/Florida",
+          "value": "Location"
         },
         {
           "id": "info_03",
           "icon": "Phone",
-          "href": "tel:+15802844513",
-          "value": "+1 (580) 284-4513"
+          "href": "tel:+15555555555",
+          "value": "Phone Number"
         },
         {
           "id": "info_04",
@@ -49,7 +49,7 @@
           "id": "info_06",
           "icon": "Linkedin",
           "href": "https://www.linkedin.com/in/ethan-garrison/",
-          "value": "linkedin.com/in/ethan-garrison"
+          "value": "Linkedin"
         },
         {
           "id": "info_07",
@@ -442,19 +442,19 @@
         {
           "id": "education_01",
           "name": "University of Central Florida",
-          "location": "Orlando, FL.",
+          "location": "Florida",
           "href": "https://www.ucf.edu/",
           "degree": "Full-Stack Web Development Bootcamp Certificate",
-          "duration": "2023 - 2023",
+          "duration": "2023",
           "desc": ""
         },
         {
           "id": "education_02",
           "name": "University of Central Oklahoma",
-          "location": "Edmond, OK.",
+          "location": "Oklahoma",
           "href": "https://www.uco.edu/",
           "degree": "NA - Business Management",
-          "duration": "2008 - 2010",
+          "duration": "2008",
           "desc": ""
         }
       ]
