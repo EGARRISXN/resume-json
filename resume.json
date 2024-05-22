@@ -313,108 +313,120 @@
       "softwareList": [
         {
           "id": "software_01",
-          "name": "Javascript",
-          "href": "https://www.javascript.com/",
-          "desc": ""
-        },
-        {
-          "id": "software_02",
-          "name": "Typescript",
-          "href": "https://www.typescriptlang.org/",
-          "desc": ""
-        },
-        {
-          "id": "software_03",
-          "name": "HTML5",
-          "href": "https://html.com/html5/",
-          "desc": ""
-        },
-        {
-          "id": "software_04",
-          "name": "CSS3",
-          "href": "https://css3.com/",
-          "desc": ""
-        },
-        {
-          "id": "software_05",
           "name": "Git",
           "href": "https://git-scm.com/",
           "desc": ""
         },
         {
+          "id": "software_02",
+          "name": "HTML5",
+          "href": "https://html.com/html5/",
+          "desc": ""
+        },
+        {
+          "id": "software_03",
+          "name": "CSS3",
+          "href": "https://css3.com/",
+          "desc": ""
+        },
+        {
+          "id": "software_04",
+          "name": "C+",
+          "href": "https://www.typescriptlang.org/",
+          "desc": ""
+        },
+        {
+          "id": "software_05",
+          "name": "Javascript",
+          "href": "https://www.javascript.com/",
+          "desc": ""
+        },
+        {
           "id": "software_06",
+          "name": "Typescript",
+          "href": "https://www.typescriptlang.org/",
+          "desc": ""
+        },
+        {
+          "id": "software_07",
           "name": "React",
           "href": "https://react.dev/",
           "desc": ""
         },
         {
-          "id": "software_07",
+          "id": "software_08",
           "name": "Next.js",
           "href": "https://nextjs.org/",
           "desc": ""
         },
         {
-          "id": "software_08",
+          "id": "software_09",
           "name": "Angular",
           "href": "https://angular.io/",
           "desc": ""
         },
         {
-          "id": "software_09",
-          "name": "Sanity",
-          "href": "https://sanity.io/",
+          "id": "software_10",
+          "name": "Vue.js",
+          "href": "https://www.vue.js/",
           "desc": ""
         },
         {
-          "id": "software_10",
+          "id": "software_11",
           "name": "TailwindCSS",
           "href": "https://tailwindcss.com/",
           "desc": ""
         },
         {
-          "id": "software_11",
+          "id": "software_12",
+          "name": "Sanity",
+          "href": "https://sanity.io/",
+          "desc": ""
+        },
+        {
+          "id": "software_13",
           "name": "MySQL",
           "href": "https://www.mysql.com/",
           "desc": ""
         },
         {
-          "id": "software_12",
+          "id": "software_14",
           "name": "MongoDB",
           "href": "https://www.mongodb.com/",
           "desc": ""
         },
         {
-          "id": "software_13",
+          "id": "software_15",
           "name": "GraphQL",
           "href": "https://graphql.org/",
           "desc": ""
         },
         {
-          "id": "software_14",
+          "id": "software_16",
           "name": "jQuery",
           "href": "https://jquery.com/",
           "desc": ""
         },
         {
-          "id": "software_15",
+          "id": "software_17",
           "name": "Express",
           "href": "https://expressjs.com/",
           "desc": ""
         },
         {
-          "id": "software_16",
+          "id": "software_18",
           "name": "Node.js",
           "href": "https://nodejs.org/",
           "desc": ""
         },
         {
-          "id": "software_17",
+          "id": "software_19",
           "name": "Webpack",
           "href": "https://webpack.js.org/",
           "desc": ""
         },
         {
-          "id": "software_18",
+          "id": "software_20",
           "name": "OAth",
           "href": "https://oauth.net/2/",
           "desc": ""
