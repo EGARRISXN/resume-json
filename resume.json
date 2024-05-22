@@ -224,20 +224,6 @@
         },
         {
           "id": "project_04",
-          "name": "StreamVerse",
-          "href": "https://streamversee.herokuapp.com/",
-          "value": "streamversee.herokuapp.com",
-          "desc": "The StreamVerse is a movie database that allows users to access, rate, and add movies to different lists, along with socialize with like-minded movie lovers. Welcome to the Streamverse!"
-        },
-        {
-          "id": "project_05",
-          "name": "Event Ease",
-          "href": "https://event-ease.herokuapp.com/",
-          "value": "event-ease.herokuapp.com",
-          "desc": "Event Ease is an easy to use event planner that allows users to plan and manage events, keeping track of attendees, RSVPs, and event details. Enjoy your event!"
-        },
-        {
-          "id": "project_06",
           "name": "Player One Reads",
           "href": "https://egarrisxn.github.io/player-one-reads/",
           "value": "egarrisxn.github.io/player-one-reads",
@@ -369,14 +355,14 @@
         },
         {
           "id": "software_08",
-          "name": "Vue.js",
-          "href": "https://vuejs.org/",
+          "name": "Angular",
+          "href": "https://angular.io/",
           "desc": ""
         },
         {
           "id": "software_09",
-          "name": "Angular",
-          "href": "https://angular.io/",
+          "name": "Sanity",
+          "href": "https://sanity.io/",
           "desc": ""
         },
         {
