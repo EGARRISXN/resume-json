@@ -1,2 +1,2 @@
-This contains the json file for my resume builder.
-https://build-that-resume.vercel.app
+This repo contains data for Build-That-Resume.
+Check it out: https://build-that-resume.vercel.app
