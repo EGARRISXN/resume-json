@@ -63,6 +63,28 @@
     "experience": {
       "title": "Experience",
       "experienceList": [
+         {
+          "id": "freelance_01",
+          "name": "Freelance",
+          "location": "Orlando, FL",
+          "detailList": [
+            {
+              "id": "freelance_01_01",
+              "position": "Full-Stack Web Developer",
+              "duration": "2023 - Present",
+              "dutyList": [
+                {
+                  "id": "freelance_01_01_01",
+                  "desc": "Designed and developed responsive and user-friendly web interfaces, integrated back-end functionality, and ensured seamless UI/UX design."
+                },
+                {
+                  "id": "freelance_01_01_02",
+                  "desc": "Managed projects from conception to delivery, ensuring high-quality results and timely delivery to clients."
+                }
+              ]
+            }
+          ]
+        },
         {
           "id": "pinksquirrel_01",
           "name": "The Pink Squirrel",
@@ -75,11 +97,11 @@
               "dutyList": [
                 {
                   "id": "pinksquirrel_01_01_01",
-                  "desc": "Created innovative marketing and advertising campaigns to promote restaurant promotional offers and increase sales."
+                  "desc": "Developed and executed marketing and advertising campaigns to promote restaurant promotions and drive sales growth."
                 },
                 {
                   "id": "pinksquirrel_01_01_02",
-                  "desc": "Engaged team members and improved performance by delivering daily updates and conducting daily meetings to obtain feedback."
+                  "desc": "Fostered teamwork by leading daily meetings, providing feedback, and conducting training sessions to improve performance."
                 }
               ]
             }
@@ -92,16 +114,16 @@
           "detailList": [
             {
               "id": "roughtail_01_01",
-              "position": "Account Manager",
+              "position": "Regional Account Manager",
               "duration": "2021 - 2022",
               "dutyList": [
                 {
                   "id": "roughtail_01_01_01",
-                  "desc": "Built and strengthened long-lasting client relationships based on accurate price quotes and customer-centric terms."
+                  "desc": "Built strong client relationships through accurate pricing and customer-centric terms."
                 },
                 {
                   "id": "roughtail_01_01_02",
-                  "desc": "Identified key entry points to enhance market penetration and maximize returns."
+                  "desc": "Identified key entry points to enhance market penetration and maximize returns on investment."
                 }
               ]
             }
@@ -119,11 +141,11 @@
               "dutyList": [
                 {
                   "id": "armadillo_01_01_01",
-                  "desc": "Oversaw new business development to generate sales leads, negotiate client pricing and forecast revenue."
+                  "desc": "Oversaw new business development, generating sales leads, negotiating client pricing, and forecasting revenue."
                 },
                 {
                   "id": "armadillo_01_01_02",
-                  "desc": "Reviewed and mitigated discrepancies to increase sales, reduce costs and streamline processes."
+                  "desc": "Reviewed and mitigated discrepancies to increase sales, reduce costs, and streamline processes."
                 }
               ]
             }
@@ -141,11 +163,11 @@
               "dutyList": [
                 {
                   "id": "northside_01_01_01",
-                  "desc": "Built and strengthened area partnerships to reap benefits such as new revenue channels and enhanced public awareness."
+                  "desc": "Built strong area partnerships to reap benefits such as new revenue channels and enhanced public awareness."
                 },
                 {
                   "id": "northside_01_01_02",
-                  "desc": "Helped team members maintain business professionalism by coaching on methods for delivering exceptional service."
+                  "desc": "Coached team members on delivering exceptional service and maintaining business professionalism."
                 }
               ]
             }
@@ -158,16 +180,16 @@
           "detailList": [
             {
               "id": "fullclip_01_01",
-              "position": "Account Manager",
+              "position": "Sales Manager",
               "duration": "2015 - 2018",
               "dutyList": [
                 {
                   "id": "fullclip_01_01_01",
-                  "desc": "Facilitated client satisfaction and renewed customer relations to drive growth."
+                  "desc": "Facilitated client satisfaction and renewed customer relationships to drive growth."
                 },
                 {
                   "id": "fullclip_01_01_02",
-                  "desc": "Educated clients on new products or services to increase customer engagement with brand."
+                  "desc": "Educated clients on new products or services to increase customer engagement with the brand."
                 }
               ]
             }
@@ -180,7 +202,7 @@
           "detailList": [
             {
               "id": "dbk_01_01",
-              "position": "Assistant General Manager",
+              "position": "General Manager",
               "duration": "2012 - 2015",
               "dutyList": [
                 {
@@ -203,31 +225,59 @@
       "projectList": [
         {
           "id": "project_01",
-          "name": "egxworld",
-          "href": "https://www.egxworld.net/",
+          "name": "EG x WORLD",
+          "href": "https://www.egxworld.net",
           "value": "egxworld.net",
-          "desc": "My personal Website site I've created to showcase my projects, skills, experience, and more."
+          "desc": "Built my personal website, EG x WORLD, to showcase my skills as a Full-Stack Web Developer and share my journey with others."
         },
         {
           "id": "project_02",
-          "name": "egxblog",
-          "href": "https://www.egxblog.net/",
+          "name": "EG x BLOG",
+          "href": "https://www.egxblog.net",
           "value": "egxblog.net",
-          "desc": "My personal blog I've created to document my journey as a developer. I'll be posting about my projects, my experiences, and my thoughts."
+          "desc": "Created my personal blog to document my learning experiences and share my thoughts on web development and design."
         },
         {
           "id": "project_03",
           "name": "Sway Bae Official",
-          "href": "https://www.swaybae.net/",
+          "href": "https://www.swaybae.net",
           "value": "swaybae.net",
-          "desc": "The Official Sway Bae site showcases this professional streamer's assets, achievements, social media links, and much more. Check out and support Sway Bae!"
+          "desc": "Designed and developed the official website for professional streamer & content creator, Sway Bae, utilizing my skills in web development and design."
         },
         {
           "id": "project_04",
-          "name": "Player One Reads",
-          "href": "https://egarrisxn.github.io/player-one-reads/",
-          "value": "egarrisxn.github.io/player-one-reads",
-          "desc": "Player One Reads generates book suggestions based upon a user's video game interests. Once you've found your suggested book, you'll have the option to read or purchase it. Happy reading!"
+          "name": "MDXRSC Showcase",
+          "href": "https://mdxrsc-showcase.vercel.app",
+          "value": "mdxrsc-showcase.vercel.app",
+          "desc": "Built a minimalist website using React Server Components, exploring new ways to optimize page load times and improve user experience."
+        },
+        {
+          "id": "project_05",
+          "name": "Astro SSR Blog",
+          "href": "https://astro-ssr-blog-ten.vercel.app",
+          "value": "astro-ssr-blog-ten.vercel.app",
+          "desc": "Developed a powerful server-side rendered blog using Astro Framework, showcasing its capabilities for fast and SEO-friendly rendering."
+        },
+        {
+          "id": "project_06",
+          "name": "Sanity Website Builder",
+          "href": "https://website-builder-smoky-one.vercel.app",
+          "value": "website-builder-smoky-one.vercel.app",
+          "desc": "Created a modern CMS website builder with Sanity, allowing users to easily create and customize their own websites."
+        },
+        {
+          "id": "project_07",
+          "name": "Unofficial Merchandise",
+          "href": "https://egarrisxn-ecommerce.vercel.app",
+          "value": "egarrisxn-ecommerce.vercel.app",
+          "desc": "Built a fully functional ecommerce webstore using Stripe payment gateway, providing a seamless shopping experience for customers."
+        },
+        {
+          "id": "project_08",
+          "name": "Build That Resume!",
+          "href": "https://build-that-resume.vercel.app",
+          "value": "build-that-resume.vercel.app",
+          "desc": "Designed a typesafe resume template for developers, making it easy to create and customize their own resumes."
         }
       ]
     },
@@ -468,12 +518,12 @@
         },
         {
           "id": "hobby_02",
-          "name": "Building software",
+          "name": "Building things",
           "desc": ""
         },
         {
           "id": "hobby_03",
-          "name": "Playing hockey",
+          "name": "Watching hockey",
           "desc": ""
         },
         {
@@ -483,7 +533,7 @@
         },
         {
           "id": "hobby_05",
-          "name": "Going hiking",
+          "name": "Being outdoors",
           "desc": ""
         },
         {
@@ -493,12 +543,12 @@
         },
         {
           "id": "hobby_07",
-          "name": "Reading a good book",
+          "name": "Learning new things",
           "desc": ""
         },
         {
           "id": "hobby_08",
-          "name": "Spending time with family",
+          "name": "Quality family time",
           "desc": ""
         }
       ]
