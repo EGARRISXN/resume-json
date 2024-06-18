@@ -232,16 +232,16 @@
         },
         {
           "id": "project_02",
-          "name": "MDXRSC Showcase",
-          "href": "https://mdxrsc-showcase.vercel.app",
-          "value": "mdxrsc-showcase.vercel.app",
+          "name": "EGXRSC",
+          "href": "https://egxrsc.vercel.app",
+          "value": "egxrsc.vercel.app",
           "desc": "Built a minimalist website using React Server Components, optimizing page load times and enhancing interactivity through server-side rendering."
         },
         {
           "id": "project_03",
-          "name": "Astro SSR Blog",
-          "href": "https://astro-ssr-blog-ten.vercel.app",
-          "value": "astro-ssr-blog-ten.vercel.app",
+          "name": "n00b:dev",
+          "href": "https://n00bdev.vercel.app",
+          "value": "n00bdev.vercel.app",
           "desc": "Developed a server-side rendered blog using Astro Framework, prioritizing speed and SEO-friendliness while maintaining a customizable content management system."
         },
         {
