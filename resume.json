@@ -246,23 +246,23 @@
         },
         {
           "id": "project_04",
-          "name": "Sanity Website Builder",
-          "href": "https://website-builder-smoky-one.vercel.app",
-          "value": "website-builder-smoky-one.vercel.app",
+          "name": "WebSanity Builder",
+          "href": "https://websanitybuilder.vercel.app",
+          "value": "websanitybuilder.vercel.app",
           "desc": "Created a CMS-driven website builder with Sanity, enabling users to effortlessly build and customize websites with a modern and intuitive interface."
         },
         {
           "id": "project_05",
           "name": "Unofficial Merchandise",
-          "href": "https://egarrisxn-ecommerce.vercel.app",
-          "value": "egarrisxn-ecommerce.vercel.app",
+          "href": "https://unofficialmerchandise.vercel.app",
+          "value": "unofficialmerchandise.vercel.app",
           "desc": "Developed a fully functional ecommerce webstore integrated with Stripe payment gateway, ensuring a secure and seamless shopping experience for customers."
         },
         {
           "id": "project_06",
-          "name": "Build That Resume!",
-          "href": "https://build-that-resume.vercel.app",
-          "value": "build-that-resume.vercel.app",
+          "name": "DevBuild Resume!",
+          "href": "https://devbuild-resume.vercel.app",
+          "value": "devbuild-resume.vercel.app",
           "desc": "Designed a typesafe resume template tailored for developers, providing an easy-to-use platform to create and customize professional resumes."
         },
         {
